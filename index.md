@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Book Blog
 
-I'm glad you are here. I plan to talk about ...
+Welcome to book blog. I am going to talk about current list of books in this blog
